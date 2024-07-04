@@ -94,22 +94,27 @@ The B7R application leverages a variety of modern technologies and libraries to 
 - **Booking Courses**: Users can book courses related to diving and swimming.
 - **Purchasing Products**: Users can purchase products related to the activities they are interested in.
 
+
 ## Screenshots
-<img src="https://github.com/zyadmohamed2/B7R/assets/107200112/4674f889-0009-44be-a878-3367732a67c1" width="200">
-<img src="https://github.com/zyadmohamed2/B7R/assets/107200112/80952d4b-a459-4eb6-abba-cdb2353f8f3f" width="200">
-<img src="https://github.com/zyadmohamed2/B7R/assets/107200112/75cff362-c70b-49ca-95ea-968e56debfb5" width="200">
-<img src="https://github.com/zyadmohamed2/B7R/assets/107200112/229fcad6-043b-4282-bc0e-684c15681dd9" width="200">
-<img src="https://github.com/zyadmohamed2/B7R/assets/107200112/d9ad2aab-fa3c-4af7-9973-541bb475593d" width="200">
-<img src="https://github.com/zyadmohamed2/B7R/assets/107200112/b4247bbe-bc84-4cd8-8ce0-21e0daf48993" width="200">
-<img src="https://github.com/zyadmohamed2/B7R/assets/107200112/ede6da6d-ab72-4b59-b202-382c79cea28e" width="200">
-<img src="https://github.com/zyadmohamed2/B7R/assets/107200112/27647c81-05f1-4fd0-85d2-4d6f0520a4ae" width="200">
-<img src="https://github.com/zyadmohamed2/B7R/assets/107200112/867a0301-3c15-4d3c-9b56-928076ecda7f" width="200">
-<img src="https://github.com/zyadmohamed2/B7R/assets/107200112/7fa5b59b-4c54-480a-af8a-67f02e9ef25d" width="200">
-<img src="https://github.com/zyadmohamed2/B7R/assets/107200112/294a2ec8-4316-4f9c-83c6-e8f7fd7e045e" width="200">
-<img src="https://github.com/zyadmohamed2/B7R/assets/107200112/f50bb679-64e1-41e4-b1b7-613215eeea51" width="200">
-<img src="https://github.com/zyadmohamed2/B7R/assets/107200112/02679f72-26e4-4bf9-a5ce-e0964e9f23c2" width="200">
-<img src="https://github.com/zyadmohamed2/B7R/assets/107200112/3a1f0cbd-3af8-4e69-9cb8-690fa27e0d52" width="200">
-<img src="https://github.com/zyadmohamed2/B7R/assets/107200112/b92d4151-a1ff-446a-8803-a6af6948c0e3" width="200">
-<img src="https://github.com/zyadmohamed2/B7R/assets/107200112/0e4da008-16ca-4ab3-8377-3cddf2002d06" width="200">
-<img src="https://github.com/zyadmohamed2/B7R/assets/107200112/7551537d-d25b-4e94-bf80-4df2f2a24c91" width="200">
-<img src="https://github.com/zyadmohamed2/B7R/assets/107200112/4fff1b44-5582-4afb-b96b-ed1ec090f9c2" width="200">
+<img src="https://github.com/zyadmohamed2/Bee/assets/107200112/412d88b8-d5dc-4da3-a3bb-c116f8e33094" width="200">
+<img src="https://github.com/zyadmohamed2/Bee/assets/107200112/2b1c6368-16fc-45f4-bedf-1486552d3ea3" width="200">
+<img src="https://github.com/zyadmohamed2/Bee/assets/107200112/0726a0e7-2c97-4e15-99e8-be40b348fae7" width="200">
+<img src="https://github.com/zyadmohamed2/Bee/assets/107200112/23a8f8fa-6b28-48ff-830f-9bd419f75c24" width="200">
+<img src="https://github.com/zyadmohamed2/Bee/assets/107200112/8efee7b2-0a01-48e1-b020-8635ac19c944" width="200">
+<img src="https://github.com/zyadmohamed2/Bee/assets/107200112/3ad8c013-278e-427f-8a0b-4a6d58f18e93" width="200">
+<img src="https://github.com/zyadmohamed2/Bee/assets/107200112/13396a34-f028-4930-b783-3c370c0e7472" width="200">
+<img src="https://github.com/zyadmohamed2/Bee/assets/107200112/602b165f-604d-485b-9b60-4b70035e2bc2" width="200">
+<img src="https://github.com/zyadmohamed2/Bee/assets/107200112/d8b75f83-0edb-4d21-b5e5-91f159c2369e" width="200">
+<img src="https://github.com/zyadmohamed2/Bee/assets/107200112/0797bd86-3606-4e6b-b8b4-204ee3833b35" width="200">
+<img src="https://github.com/zyadmohamed2/Bee/assets/107200112/060a930f-d336-49cc-8328-55ce122e8689" width="200">
+<img src="https://github.com/zyadmohamed2/Bee/assets/107200112/995c8ffd-70d8-4edf-8905-810f242ce61d" width="200">
+<img src="https://github.com/zyadmohamed2/Bee/assets/107200112/ac7b535e-8251-4df3-a776-510d54ef4f08" width="200">
+<img src="https://github.com/zyadmohamed2/Bee/assets/107200112/cf6d2402-1309-453a-b5bc-f4499a92687c" width="200">
+<img src="https://github.com/zyadmohamed2/Bee/assets/107200112/dedfd606-ab6a-45db-a0f1-9f2f0513acbe" width="200">
+<img src="https://github.com/zyadmohamed2/Bee/assets/107200112/d7d7faa2-62b3-4910-816a-3877af44bf86" width="200">
+<img src="https://github.com/zyadmohamed2/Bee/assets/107200112/8f46274d-5acb-41b9-8a0e-d7d2bfec7fae" width="200">
+<img src="https://github.com/zyadmohamed2/Bee/assets/107200112/1911e7b9-ea4a-409c-af1b-8d971fcade40" width="200">
+<img src="https://github.com/zyadmohamed2/Bee/assets/107200112/8f78b26b-9db3-4719-9a7d-dfbe35c164fa" width="200">
+<img src="https://github.com/zyadmohamed2/Bee/assets/107200112/3668e6ba-018d-4558-a958-53ce389ed8f5" width="200">
+<img src="https://github.com/zyadmohamed2/Bee/assets/107200112/27bc42ee-149d-4fb3-b9ba-1bd28d5094c1" width="200">
+<img src="https://github.com/zyadmohamed2/Bee/assets/107200112/1e951675-dfa3-467a-9a95-dd479e3a43b4" width="200">
